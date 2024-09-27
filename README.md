@@ -1,7 +1,7 @@
 # Sales-Analysis
 Created an Interactive Tableau Dashboard for a Sales DataSource.
 
-Dashboard is available on https://sarinajami.github.io/Sales-Analysis/
+Dashboard is available on https://sarinajami.github.io/Sales-Analysis/  https://public.tableau.com/app/profile/sarina.jami/viz/Sales_Dashboard_17274480121970/CustomerDashboard
 
 **Dashboard Guide:**
 
